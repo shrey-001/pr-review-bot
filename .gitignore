@@ -88,3 +88,6 @@ spring-boot-*.log
 *.swp
 *~.nib
 
+insightpr.2026-01-17.private-key.pem
+*.pem
+src/main/resources/application.properties
